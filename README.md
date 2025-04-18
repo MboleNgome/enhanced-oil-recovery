@@ -76,7 +76,7 @@ Key Takeaways
 
         Research and documentation of basin-specific geological data
 
-📌 Future Work
+Future Work
 
     Expand model to include pressure, viscosity, or heterogeneity variables.
 
@@ -84,10 +84,10 @@ Key Takeaways
 
     Extend simulation to carbonate reservoirs in the Logbaba or Rio del Rey basins.
 
-👤 Author
+Author
 
 Mbole Ngome-Ngome
-Petroleum & Natural Gas Engineering (B.Eng)
+Petroleum & Natural Gas Engineering (B.Sc)
 Aspiring Chemical Engineer | Python Learner | 🇨🇲 | Based in Dortmund, Germany
 💬 Connect with Me
 
