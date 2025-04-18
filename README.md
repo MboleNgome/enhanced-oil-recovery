@@ -78,14 +78,19 @@ Key Takeaways
 
         Research and documentation of basin-specific geological data
 
-Why this matters
+##Why this matters
 
   With the growing global demand for hydrocarbon-based energy, it is clear that conventional methods alone would not be sufficient, especially when it comes to the exploitation of unconventional reservoirs. These reservoirs still contain substantial amounts of hydrocarbons that remain inaccessible through the use of primary and even secondary techniques.
   In regions like Cameroon where untapped energy resources lie within complex geological structures it would be essential to integrate complex methods such as EOR or EGR (Enhanced Gas Recovery), in order to have access.
    Simulations like this demonstrate how tailored EOR methods such as gas injection (CO2, N2 or CH4) can improve the recovery efficiency in these formations. They also provide insight into how specific reservoir conditions may influence the basis for potential real-world implementations, especially within the Cameroonian energy sector. 
 
+## Future Improvements
+- Add comparison with waterflooding
+- Include real-world reservoir properties (e.g., from a sandstone reservoir in Cameroon)
+- Include CO₂ or N₂ injection models
 
-Future Work
+
+## Future Work
 
     Gas Injection techniques in unconventional gas reservoirs
 
@@ -95,7 +100,7 @@ Future Work
 
     Extend simulation to carbonate reservoirs in the Logbaba or Rio del Rey basins.
 
-Author
+## Author
 
 Mbole Ngome-Ngome
 Petroleum & Natural Gas Engineering (B.Sc)
