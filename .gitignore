@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints (if ever used)
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Output files (e.g. plots, unless you want to upload them)
+*.png
+*.jpg
+
+# Secrets / sensitive data (only if applicable)
+*.env
+*.secret
