@@ -55,7 +55,7 @@ N₂	0.45	2.8	2.6	  Limited miscibility
 
 Results
 
-![image](https://github.com/user-attachments/assets/6e317b63-e806-4600-9d99-0152c46a95db)
+See EOR Douala Basin.png
 
 The plot basically illustrates how each gas enhances recovery over time (PVI). CO₂ injection yields the highest recovery, while N₂ performs the least due to low miscibility with the reservoir oil.
 
