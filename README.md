@@ -55,6 +55,8 @@ N₂	0.45	2.8	2.6	  Limited miscibility
 
 Results
 
+![image](https://github.com/user-attachments/assets/6e317b63-e806-4600-9d99-0152c46a95db)
+
 The plot basically illustrates how each gas enhances recovery over time (PVI). CO₂ injection yields the highest recovery, while N₂ performs the least due to low miscibility with the reservoir oil.
 
     This result aligns with field evidence supporting CO₂ as the most effective gas for EOR in light-medium oil sandstone reservoirs.
@@ -76,7 +78,16 @@ Key Takeaways
 
         Research and documentation of basin-specific geological data
 
+Why this matters
+
+  With the growing global demand for hydrocarbon-based energy, it is clear that conventional methods alone would not be sufficient, especially when it comes to the exploitation of unconventional reservoirs. These reservoirs still contain substantial amounts of hydrocarbons that remain inaccessible through the use of primary and even secondary techniques.
+  In regions like Cameroon where untapped energy resources lie within complex geological structures it would be essential to integrate complex methods such as EOR or EGR (Enhanced Gas Recovery), in order to have access.
+   Simulations like this demonstrate how tailored EOR methods such as gas injection (CO2, N2 or CH4) can improve the recovery efficiency in these formations. They also provide insight into how specific reservoir conditions may influence the basis for potential real-world implementations, especially within the Cameroonian energy sector. 
+
+
 Future Work
+
+    Gas Injection techniques in unconventional gas reservoirs
 
     Expand model to include pressure, viscosity, or heterogeneity variables.
 
