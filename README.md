@@ -2,7 +2,7 @@
 
 This project simulates enhanced oil recovery (EOR) performance using gas injection in a sandstone reservoir based on real-world parameters from the **Douala Basin** in Cameroon.
 
-## 🛢️ Reservoir Background
+## Reservoir Background
 
 - **Location**: Douala Basin, Southern Cameroon  
 - **Formation**: Lower Cretaceous Sandstone & Shale  
